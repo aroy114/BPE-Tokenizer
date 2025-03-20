@@ -15,10 +15,10 @@ TokenForge is a Byte Pair Encoding (BPE) tokenizer that efficiently converts tex
 - Optimized for reducing token count and improving text compression.  
 
 ## **Usage**  
-Clone the repository and run the tokenizer to encode/decode text.  
+Clone the repository and open the Jupyter Notebook to run the tokenizer:
 
 ```bash
 git clone https://github.com/yourusername/tokenforge.git  
 cd tokenforge  
-python tokenizer.py
+jupyter notebook
 ```  
